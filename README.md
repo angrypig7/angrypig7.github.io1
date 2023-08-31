@@ -1,4 +1,4 @@
-## angrypig7.github.io
+## kihunsong22.github.io
 > Github page blog used for uploading personal studies.
 
 ##### Theme used - NexT
